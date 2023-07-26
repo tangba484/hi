@@ -9,7 +9,7 @@
         </encoder>
     </appender>
 
-    <logger name="com.example.demospring.OrderTester" level="info"/>
+    <logger name="com.example.demo.OrderTester" level="info"/>
 
     <root level="info">
         <appender-ref ref="STDOUT" />
